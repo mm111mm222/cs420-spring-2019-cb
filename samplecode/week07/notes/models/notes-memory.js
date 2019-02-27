@@ -18,6 +18,8 @@ exports.read = function(key){
     })
 }
 
+//Hello world
+
 exports.destroy = function(key) {
     return new Promise((resolve, reject) => {
         if (notes[key]) {
