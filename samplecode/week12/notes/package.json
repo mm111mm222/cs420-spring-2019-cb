@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "start-fs": "NOTES_MODEL=models/notes-fs node ./bin/www",
+    "start-mongodb": "MONGO_URL=mongodb://localhost/chap07 NOTES_MODEL=models/notes-mongodb node ./bin/www",
     "postinstall": "node_modules/bower/bin/bower install"
   },
   "dependencies": {
@@ -14,6 +15,7 @@
     "express": "~4.16.0",
     "file-stream-rotator": "^0.4.1",
     "http-errors": "~1.6.2",
+    "mongodb": "^2.2.36",
     "morgan": "~1.9.0"
   },
   "devDependencies": {
