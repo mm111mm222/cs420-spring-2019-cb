@@ -1,0 +1,23 @@
+{
+  "name": "notes",
+  "homepage": "https://github.com/mm111mm222/cs420-spring-2019-cb",
+  "authors": [
+    "mm111mm222"
+  ],
+  "description": "a notes application",
+  "main": "app.js",
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.6"
+  }
+}
