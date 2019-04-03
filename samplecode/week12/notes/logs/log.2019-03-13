@@ -1,0 +1,5 @@
+[0mGET / [36m304 [0m23.613 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m7.578 ms - -[0m
+[0mGET /vendor/bootstrap/css/bootstrap.min.css [36m304 [0m13.422 ms - -[0m
+[0mGET /vendor/jquery/jquery.min.js [36m304 [0m10.912 ms - -[0m
+[0mGET /vendor/bootstrap/js/bootstrap.min.js [36m304 [0m13.220 ms - -[0m
