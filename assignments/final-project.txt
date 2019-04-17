@@ -17,7 +17,7 @@ Due on May 8th.  You will demo in class starting at 4:30 PM
     A list view of the items available in the system
 
 - Sale/Transaction
-    - Set customer / or "Johny Cash"
+    - Set / Create customer / or "Johny Cash"
     - Add Items / Qty to transaction
     - Calculate Sales Tax
     - Calculate Total (Sales Tax + (Item Price * Qty))
@@ -43,6 +43,8 @@ Due on May 8th.  You will demo in class starting at 4:30 PM
 
 How the application flow should be
     - POS should start in a mode to start a transaction - Transaction Mode.
-    - You should have an "Admin" screen that allows you to manage items / customer
+    - You should have an "Admin" screen that allows you to 
+        - Manage items (CRUD Create / Update / Delete)
+        - List customers and view customer details
     - Transaction mode should allow you to add start/clear a sale
 
